@@ -1,14 +1,18 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>What are networks and how do they work?</title>
+    <title>Networks</title>
   </head>
   <body>
-    <h1>Welcome to my web page!</h1>
+    <h1>What are newtorks and how do they work?</h1>
     <p>First you have to understand what a netowrk is:</p>
     <ul>
       <li>A network is 2 or more devices that can share files and data with eachother.</li>
-      <li>Item 2</li>
+    <p>What networks do you use in your daily life?<p>
+    
+    
+     <li>Item 2</li>
+      
       <li>Item 3</li>
     </ul>
   </body>
