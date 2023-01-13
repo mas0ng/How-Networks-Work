@@ -5,9 +5,9 @@
   </head>
   <body>
     <h1>Welcome to my web page!</h1>
-    <p>This is a sample web page created with HTML.</p>
+    <p>First you have to understand what a netowrk is:</p>
     <ul>
-      <li>Item 1</li>
+      <li>A network is 2 or more devices that can share files and data with eachother.</li>
       <li>Item 2</li>
       <li>Item 3</li>
     </ul>
