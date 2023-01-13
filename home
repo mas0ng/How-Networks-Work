@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>What are networks and how do they work?</title>
+  </head>
+  <body>
+    <h1>Welcome to my web page!</h1>
+    <p>This is a sample web page created with HTML.</p>
+    <ul>
+      <li>Item 1</li>
+      <li>Item 2</li>
+      <li>Item 3</li>
+    </ul>
+  </body>
+</html>
